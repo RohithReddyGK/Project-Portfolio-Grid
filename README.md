@@ -79,39 +79,39 @@ JavaScript Projects/
 
 **DOM Manipulation Viewer**
 Scroll through five key defense events with visuals and text.  
-🔗 https://image-and-description-viewer.netlify.app/
+🔗 [Live Demo](https://image-and-description-viewer.netlify.app/)
 
 **AI Fields Showcase**
 Toggle between dark and light themes across four AI fields.  
-🔗 https://ai-fields-theme-toggle.netlify.app/
+🔗 [Live Demo](https://ai-fields-theme-toggle.netlify.app/)
 
 **Clock Stopwatch Timer**
 Digital clock, stopwatch, and countdown timer.  
-🔗 https://clock-stopwatch-timer.netlify.app/
+🔗 [Live Demo](https://clock-stopwatch-timer.netlify.app/)
 
 **Age Calculator**
 Calculate exact age in years, months, and days.  
-🔗 https://age-calculator-tool.netlify.app/
+🔗 [Live Demo](https://age-calculator-tool.netlify.app/)
 
 **Random Background Music Player**
 Play random or selected background tracks.  
-🔗 https://random-background-music-player.netlify.app/
+🔗 [Live Demo](https://random-background-music-player.netlify.app/)
 
 **Traffic Light Simulation**
 Manually toggle traffic light signals.  
-🔗 https://signal-sim.netlify.app/
+🔗 [Live Demo](https://signal-sim.netlify.app/)
 
 **Quiz App**
 10 MCQs, score calculation, review answers, dark/light mode.  
-🔗 https://stackquiz.netlify.app/
+🔗 [Live Demo](https://stackquiz.netlify.app/)
 
 **Recipe App**
 Browse, favorite, and explore Indian recipes.  
-🔗 https://spice-shelf.netlify.app/
+🔗 [Live Demo](https://spice-shelf.netlify.app/)
 
 **Image Zoom Modal**
 Hover to zoom, click to view fullscreen modal.  
-🔗 https://zoom-view.netlify.app/
+🔗 [Live Demo](https://zoom-view.netlify.app/)
 
 ---
 
