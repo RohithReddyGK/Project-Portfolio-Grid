@@ -78,39 +78,39 @@ JavaScript Projects/
 ### 🗂️ Projects Included
 
 **DOM Manipulation Viewer**
-Scroll through five key defense events with visuals and text.
+Scroll through five key defense events with visuals and text.  
 🔗 https://image-and-description-viewer.netlify.app/
 
 **AI Fields Showcase**
-Toggle between dark and light themes across four AI fields.
+Toggle between dark and light themes across four AI fields.  
 🔗 https://ai-fields-theme-toggle.netlify.app/
 
 **Clock Stopwatch Timer**
-Digital clock, stopwatch, and countdown timer.
+Digital clock, stopwatch, and countdown timer.  
 🔗 https://clock-stopwatch-timer.netlify.app/
 
 **Age Calculator**
-Calculate exact age in years, months, and days.
+Calculate exact age in years, months, and days.  
 🔗 https://age-calculator-tool.netlify.app/
 
 **Random Background Music Player**
-Play random or selected background tracks.
+Play random or selected background tracks.  
 🔗 https://random-background-music-player.netlify.app/
 
 **Traffic Light Simulation**
-Manually toggle traffic light signals.
+Manually toggle traffic light signals.  
 🔗 https://signal-sim.netlify.app/
 
 **Quiz App**
-10 MCQs, score calculation, review answers, dark/light mode.
+10 MCQs, score calculation, review answers, dark/light mode.  
 🔗 https://stackquiz.netlify.app/
 
 **Recipe App**
-Browse, favorite, and explore Indian recipes.
+Browse, favorite, and explore Indian recipes.  
 🔗 https://spice-shelf.netlify.app/
 
 **Image Zoom Modal**
-Hover to zoom, click to view fullscreen modal.
+Hover to zoom, click to view fullscreen modal.  
 🔗 https://zoom-view.netlify.app/
 
 ---
