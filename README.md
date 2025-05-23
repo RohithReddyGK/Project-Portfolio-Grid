@@ -127,3 +127,5 @@ Hover to zoom, click to view fullscreen modal.
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohithreddygk)
 
 ---
+
+### 🌟 **If you like this project, give it a ⭐ **
